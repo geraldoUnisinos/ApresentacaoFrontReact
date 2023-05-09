@@ -7,7 +7,7 @@ export default function teste() {
                 isPlaying
                 size={120}
                 duration={10}
-                colors={['#BCE596', '#F7B801', '#ED827A', '#A30001']}
+                colors={['#BCE596', '#F7B801', '#ED827A', '#A30000']}
                 colorsTime={[10, 10/3, 10/6, 0]}
             >
                 {({ remainingTime }) => remainingTime}
